@@ -2,6 +2,7 @@
 #define I_TYPE_CLASS_H
 #include "mips_class.h"
 #include <cstdint>
+
 /*
 ** File Name : I_Type_Class.h
 ** Contents : Declare I_Type Class & Related Function
